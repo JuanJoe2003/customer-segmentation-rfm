@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw data (too large for GitHub)
+Data/
+
+# Keep output folder but ignore large files
+Output/elbow_curve.png
