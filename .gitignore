@@ -4,6 +4,3 @@ __pycache__/
 
 # Raw data (too large for GitHub)
 Data/
-
-# Keep output folder but ignore large files
-Output/elbow_curve.png
