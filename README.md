@@ -114,6 +114,10 @@ python SRC/dashboard.py
 
 ---
 
+🚀 **Live Demo:** https://customer-segmentation-rfm-6rznxvpd2kguxx6eb9ghfq.streamlit.app
+
+---
+
 ## Author
 
 **JuanJoe2003** — Built as a portfolio project to demonstrate end-to-end data science skills including data cleaning, feature engineering, unsupervised machine learning, and business insight communication.
